@@ -1,2 +1,0 @@
-source env/bin/activate   --->to start virtual env
-pip3 install flask flask-sqlalchemy   --->install flask
